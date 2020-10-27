@@ -12,7 +12,9 @@
     }
   ],
   "keywords": [
-    "date deal php_date_deal_tool wanghua"
+    "date deal",
+    "php_date_deal_tool",
+    "wanghua"
   ],
   "require": {
     "php": ">=5.3"
