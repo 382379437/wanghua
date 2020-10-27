@@ -1,6 +1,6 @@
 {
   "type": "library",
-  "name": "wanghua/php_date_deal_tool",
+  "name": "wanghua/php-date-deal-tool",
   "homepage": "https://gitee.com/drop_drop/wanghua.git",
   "description": "date deal for PHP ",
   "license": "Apache-2.0",
@@ -13,15 +13,10 @@
   ],
   "keywords": [
     "date deal",
-    "php_date_deal_tool",
+    "php-date-deal-tool",
     "wanghua"
   ],
   "require": {
-    "php": ">=5.3"
-  },
-  "autoload": {
-    "classmap": [
-      "Ip2Region.php"
-    ]
+    "php": ">=7.0"
   }
 }
